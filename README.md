@@ -1,6 +1,6 @@
 # Virtual Terminal
 Small side project I made in a few days while in school
-<br>
+<br><br>
 Note: probably like 30% or so of the code is made by AI, since at the time I was using replit to make Virtual Terminal and decided to use a bit of the built in AI features.
 
 # Features
