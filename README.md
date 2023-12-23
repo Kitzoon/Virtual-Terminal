@@ -1,2 +1,5 @@
-# Virtual-Terminal
-Simple python project that simulates a computer terminal
+# Virtual Terminal
+Small side project I made in a few days while in school
+
+<br><br>
+- Features
